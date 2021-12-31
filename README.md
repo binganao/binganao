@@ -7,7 +7,7 @@
 ### Hi there 👋 I'm binganao also 饼干 <img align='right' src='https://github-readme-stats.vercel.app/api?username=binganao&show_icons=true&theme=cobalt' width='380px'>
 
 - 📺 My Website: [https://bingbingzi.cn](https://bingbingzi.cn)
-- 🛫 My Telegram: [t.me/zhzyker](t.me/zhzyker)
+<!-- - 🛫 My Telegram: [t.me/zhzyker](t.me/zhzyker) -->
 
 <!--
 **binganao/binganao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
