@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm binganao also 饼干 <img align='right' src='https://github-readme-stats.vercel.app/api?username=binganao&show_icons=true&theme=cobalt' width='380px'>
 
 <!--
 **binganao/binganao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
